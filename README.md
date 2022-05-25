@@ -26,4 +26,4 @@ the current dependencies are as follows:
 * bash scripting knowledge
 
 # What tool or set of tools are you using to make this repo/content possible?
-https://replit.com/ by setting up or forking a repo and then tinkering on it til it works. 
+https://replit.com/ by setting up or forking a repo and then tinkering on it til it works. I will be templating my work from here https://replit.com/@DylanEliot/Wine-FINALLY#main.sh which is also stored in a zip file. Their will be a date & time associated with each release/version.
