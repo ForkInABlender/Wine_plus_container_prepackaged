@@ -24,3 +24,6 @@ the current dependencies are as follows:
 * Vulkan
 * D3d9
 * bash scripting knowledge
+
+# What tool or set of tools are you using to make this repo/content possible?
+https://replit.com/ by setting up or forking a repo and then tinkering on it til it works. 
